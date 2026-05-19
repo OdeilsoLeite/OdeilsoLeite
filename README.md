@@ -68,7 +68,7 @@
 ## 🌎 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/odeilso-denis-714387244/">
+  <a href="[https://www.linkedin.com/in/odeilso-denis-714387244](https://www.linkedin.com/in/odeilsoleite/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
