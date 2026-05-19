@@ -50,6 +50,7 @@
 - React + TypeScript
 - ASP.NET / .NET
 - HTML, CSS e JavaScript moderno
+- Desenvolvimento de PCF (Power Apps Component Framework)
 - Business Process Flow (BPF)
 - Omnichannel for Customer Service
 
